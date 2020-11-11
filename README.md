@@ -9,7 +9,7 @@
 > This is a guide for create consistent and aesthetically pleasing Unity Bolt Visual Script Graph. It is inspired by what is popular within the community, and flavored with some personal opinions.
 
 ## The Guideline Style serve the following purposes:
-- They create a consistent look to the graph, so that readers can focus on content, not layout.
+- They create a consistent look to the graph, so that readers can focus on the content, not the layout.
 - They enable readers to understand the graph more quickly by making assumptions based on previous experience.
 - They facilitate copying, changing, and maintaining the graph.
 
