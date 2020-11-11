@@ -19,7 +19,7 @@
 - The graph inspector and variable visible help you instantly see the documentation and issue in your graph.
 <p align="center">
 <br>
-<img width="400" src="./assets/visible_windows.png" alt="visible_windows.png">
+<img width="800" src="./assets/visible_windows.png" alt="visible_windows.png">
 <br>
 </p>
 
